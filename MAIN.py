@@ -8,4 +8,4 @@ if __name__=="__main__":
             timeout=2 #after displaying
             #you can also choose an icon
         )
-        time.sleep(7) #waiting tim
+        time.sleep(7) #waiting time
